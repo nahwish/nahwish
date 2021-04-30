@@ -1,6 +1,3 @@
-# README.md
-
-
 **Hola! Me llamo Nahuel**
 
 # **NAHUEL ROJAS**
