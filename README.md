@@ -33,9 +33,7 @@ Me empuja la curiosidad en el desarrollo web, el Arte y los Videojuegos, soy des
 
 🤓 [LinkeIN](https://www.linkedin.com/in/nahuelrojas-dev/ "LinkeIN") 
 
-</br>
-</br>
-</br>
+
 
 | || |
 |-------| ----- |----|
