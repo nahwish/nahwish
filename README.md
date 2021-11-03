@@ -16,7 +16,7 @@ Me empuja la curiosidad en el desarrollo web, el Arte y los Videojuegos, soy des
 	Tecnologias : HTML , CSS3 , BOOTSTRAP, NODEJS;
 	Base de Datos : SQL;
 	FrameWork/Libreria : REACTJS , REDUX , REACT NATIVE , EXPRESS;
-	Gentión de proyectos : TRELLO , SLACK;
+	Gestión de proyectos : TRELLO , SLACK;
 	Control de versiones : GIT & GITHUB;
 	Metodología : SCRUM;  
 	
