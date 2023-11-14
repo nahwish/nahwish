@@ -1,4 +1,5 @@
-**Hola! Me llamo # **NAHUEL ROJAS**
+*Hola! Me llamo*
+# **NAHUEL ROJAS**
 Full Stack Development🚀
 
 Me empuja la curiosidad en el desarrollo web, el Arte y los Videojuegos, soy desarrollador FullStack, inquieto y autodidacta. Graduado de Soy Henry, catLover y vegetariano.
